@@ -1,0 +1,35 @@
+# 忽略 Unity 自动生成的巨大文件夹
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# 忽略 Visual Studio / VS Code 产生的缓存和工程文件
+.vs/
+.vscode/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# 忽略系统生成的缩略图文件
+.DS_Store
+Thumbs.db
+
+# 忽略构建出来的包
+*.apk
+*.unitypackage

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes 1/TEWCPL_Scene.unity
+    guid: 134571def16f29841904a1a0f660ce04
+  - enabled: 1
+    path: Assets/Scenes 1/Test.unity
+    guid: d3ba05bad88d73d449c85aa3bcdb3fa2
+  - enabled: 1
+    path: Assets/Scenes 1/Market.unity
+    guid: 00553d82014ccaa4295e49cc13750d45
+  - enabled: 0
+    path: Assets/Samples/XR Hands/1.4.3/Gestures/HandGestures.unity
+    guid: cd792f2302b8b6f4c9f264e2a4503e15
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: 66ec272e10d43064e851cb80be912747,
+      type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 33c26c6617ec0f34eb4c33e6fd56ee4a,
+      type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f,
+      type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2631f9ee8d6a0594e8fb23c506ea5ce5,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4f92ff9c297c8ac47be225babd1c7226,
+      type: 2}
