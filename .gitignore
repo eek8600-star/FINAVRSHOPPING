@@ -1,4 +1,4 @@
-# 忽略 Unity 自动生成的巨大文件夹
+# Unity generated folders
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -7,14 +7,16 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
-# 忽略 Visual Studio / VS Code 产生的缓存和工程文件
+# IDE and generated project files
 .vs/
 .vscode/
+.idea/
 ExportedObj/
 .consulo/
 *.csproj
 *.unityproj
 *.sln
+*.slnx
 *.suo
 *.tmp
 *.user
@@ -23,13 +25,29 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
+*.mdb
 *.opendb
 *.VC.db
 
-# 忽略系统生成的缩略图文件
+# Build outputs and exported packages
+*.apk
+*.aab
+*.ipa
+*.app
+*.exe
+*.unitypackage
+
+# Signing keys and local secrets
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+
+# OS files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# 忽略构建出来的包
-*.apk
-*.unitypackage
+# Local worktrees
+.worktrees/
+worktrees/
