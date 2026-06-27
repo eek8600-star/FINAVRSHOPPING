@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.endel.nativewebsocket": {
-      "version": "file:F:/Google_Download/NativeWebSocket-master/NativeWebSocket-master/NativeWebSocket/Assets",
+      "version": "file:vendor/com.endel.nativewebsocket",
       "depth": 0,
       "source": "local",
       "dependencies": {}
@@ -72,7 +72,7 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.pico.livepreview": {
-      "version": "file:F:/Edg_Download/Unity Live Preview Plugin-1.0.5-20250211",
+      "version": "file:vendor/com.unity.pico.livepreview",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -251,7 +251,7 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.xr.picoxr": {
-      "version": "file:F:/Edg_Download/PICO Unity Integration SDK_3.1.0_20250109",
+      "version": "file:vendor/com.unity.xr.picoxr",
       "depth": 0,
       "source": "local",
       "dependencies": {

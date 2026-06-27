@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "com.endel.nativewebsocket": "file:F:/Google_Download/NativeWebSocket-master/NativeWebSocket-master/NativeWebSocket/Assets",
+    "com.endel.nativewebsocket": "file:vendor/com.endel.nativewebsocket",
     "com.unity.collab-proxy": "2.8.2",
     "com.unity.ide.rider": "3.0.34",
     "com.unity.ide.visualstudio": "2.0.25",
     "com.unity.ide.vscode": "1.2.5",
-    "com.unity.pico.livepreview": "file:F:/Edg_Download/Unity Live Preview Plugin-1.0.5-20250211",
+    "com.unity.pico.livepreview": "file:vendor/com.unity.pico.livepreview",
     "com.unity.render-pipelines.universal": "14.0.11",
     "com.unity.test-framework": "1.1.33",
     "com.unity.textmeshpro": "3.0.7",
@@ -14,7 +14,7 @@
     "com.unity.visualscripting": "1.9.4",
     "com.unity.xr.hands": "1.4.3",
     "com.unity.xr.openxr": "1.14.3",
-    "com.unity.xr.picoxr": "file:F:/Edg_Download/PICO Unity Integration SDK_3.1.0_20250109",
+    "com.unity.xr.picoxr": "file:vendor/com.unity.xr.picoxr",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
