@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Team collaboration guide
+    url: https://github.com/eek8600-star/FINAVRSHOPPING/blob/main/CONTRIBUTING.md
+    about: Read the branch, pull request, Unity asset, and package rules before starting work.
