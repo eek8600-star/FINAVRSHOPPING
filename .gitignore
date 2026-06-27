@@ -32,4 +32,17 @@ Thumbs.db
 
 # 忽略构建出来的包
 *.apk
+*.aab
+*.ipa
 *.unitypackage
+
+# Unity crash and memory capture files
+*.stackdump
+*.dmp
+*.pidb.meta
+sysinfo.txt
+
+# Local package/vendor scratch space. Commit approved vendor packages through
+# Packages/vendor/ in a dedicated PR when the license allows redistribution.
+LocalPackages/
+VendorPackages/
